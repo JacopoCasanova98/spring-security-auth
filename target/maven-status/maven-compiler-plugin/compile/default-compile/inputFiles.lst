@@ -1,0 +1,14 @@
+/Users/jacopo/Documents/2. Documenti/2. Projects/spring-security-auth/src/main/java/com/spring_security_application/spring_security_application/SpringSecurityAuth.java
+/Users/jacopo/Documents/2. Documenti/2. Projects/spring-security-auth/src/main/java/com/spring_security_application/spring_security_application/auth/AuthenticationController.java
+/Users/jacopo/Documents/2. Documenti/2. Projects/spring-security-auth/src/main/java/com/spring_security_application/spring_security_application/auth/AuthenticationRequest.java
+/Users/jacopo/Documents/2. Documenti/2. Projects/spring-security-auth/src/main/java/com/spring_security_application/spring_security_application/auth/AuthenticationService.java
+/Users/jacopo/Documents/2. Documenti/2. Projects/spring-security-auth/src/main/java/com/spring_security_application/spring_security_application/auth/AuthenticatorResponse.java
+/Users/jacopo/Documents/2. Documenti/2. Projects/spring-security-auth/src/main/java/com/spring_security_application/spring_security_application/auth/RegisterRequest.java
+/Users/jacopo/Documents/2. Documenti/2. Projects/spring-security-auth/src/main/java/com/spring_security_application/spring_security_application/config/ApplicationConfig.java
+/Users/jacopo/Documents/2. Documenti/2. Projects/spring-security-auth/src/main/java/com/spring_security_application/spring_security_application/config/JwtAuthenticationFilter.java
+/Users/jacopo/Documents/2. Documenti/2. Projects/spring-security-auth/src/main/java/com/spring_security_application/spring_security_application/config/JwtService.java
+/Users/jacopo/Documents/2. Documenti/2. Projects/spring-security-auth/src/main/java/com/spring_security_application/spring_security_application/config/SecurityConfiguration.java
+/Users/jacopo/Documents/2. Documenti/2. Projects/spring-security-auth/src/main/java/com/spring_security_application/spring_security_application/demo/DemoController.java
+/Users/jacopo/Documents/2. Documenti/2. Projects/spring-security-auth/src/main/java/com/spring_security_application/spring_security_application/user/Role.java
+/Users/jacopo/Documents/2. Documenti/2. Projects/spring-security-auth/src/main/java/com/spring_security_application/spring_security_application/user/User.java
+/Users/jacopo/Documents/2. Documenti/2. Projects/spring-security-auth/src/main/java/com/spring_security_application/spring_security_application/user/UserRepository.java
